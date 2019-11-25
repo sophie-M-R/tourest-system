@@ -1,0 +1,8 @@
+api：前后数据交互的接口
+layout：存放的布局
+styles：存放的样式
+utils：公共的
+views：页面
+
+
+assets、components：是创建脚手架自己有的。 上面是我们根据项目需求自己创建的文件夹
